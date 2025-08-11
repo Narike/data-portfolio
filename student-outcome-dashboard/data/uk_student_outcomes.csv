@@ -1,0 +1,201 @@
+StudentID,Gender,Ethnicity,Subject,Grade,PredictedGrade,Attendance,FreeSchoolMeals
+S0001,Female,White British,Biology,A,A,95,Yes
+S0002,Female,White British,Psychology,B,B,89,No
+S0003,Female,White British,Chemistry,C,B,90,No
+S0004,Male,White British,Mathematics,C,C,93,No
+S0005,Male,White British,Sociology,B,B,89,Yes
+S0006,Female,Asian British,Sociology,A*,A*,94,No
+S0007,Female,White British,Biology,C,B,93,No
+S0008,Female,Asian British,Mathematics,C,B,90,No
+S0009,Female,Mixed,History,B,A,88,No
+S0010,Male,White British,Biology,C,B,89,Yes
+S0011,Female,White British,Chemistry,A,A,91,No
+S0012,Female,White British,Computer Science,A,A*,91,Yes
+S0013,Female,Black British,History,A,A,94,No
+S0014,Female,White British,Computer Science,B,C,82,No
+S0015,Male,White British,Art & Design,C,C,80,No
+S0016,Female,White British,Chemistry,U,U,68,No
+S0017,Female,Mixed,Physics,B,A,86,No
+S0018,Male,White British,Geography,B,C,91,No
+S0019,Male,Asian British,Computer Science,D,C,78,No
+S0020,Male,White British,Physics,B,C,84,No
+S0021,Male,White British,Physics,B,B,96,No
+S0022,Female,White British,Chemistry,A,A*,92,No
+S0023,Female,White British,Mathematics,B,B,90,Yes
+S0024,Male,Not Stated,Sociology,B,B,84,No
+S0025,Female,White British,Geography,C,D,85,No
+S0026,Male,Asian British,Economics,A,A,93,No
+S0027,Other,Mixed,Sociology,C,C,82,No
+S0028,Other,Asian British,Geography,D,D,84,No
+S0029,Male,White British,Economics,A,A,91,Yes
+S0030,Female,White British,Mathematics,D,D,81,No
+S0031,Female,White British,Physics,C,D,85,No
+S0032,Male,White British,History,A,A,100,No
+S0033,Male,White British,Art & Design,A,A*,93,No
+S0034,Male,Asian British,Sociology,D,D,78,No
+S0035,Male,White British,Biology,B,C,93,Yes
+S0036,Female,Mixed,Further Mathematics,A*,A,90,No
+S0037,Other,Mixed,Chemistry,A,A,94,No
+S0038,Male,White British,History,A*,A*,87,No
+S0039,Female,White British,Art & Design,E,U,73,No
+S0040,Female,White British,Biology,A,A,94,No
+S0041,Male,White British,Mathematics,B,B,93,No
+S0042,Male,Other,Further Mathematics,C,C,88,Yes
+S0043,Female,White British,Psychology,A,A,93,No
+S0044,Male,White British,Economics,A,A,92,No
+S0045,Male,White British,Physics,C,C,81,No
+S0046,Female,White British,Geography,C,C,84,Yes
+S0047,Female,White British,Physics,E,U,76,No
+S0048,Male,White British,Economics,C,B,91,No
+S0049,Female,White British,Economics,A,A*,94,No
+S0050,Male,White British,Further Mathematics,C,C,80,No
+S0051,Male,White British,Computer Science,B,B,91,No
+S0052,Female,Mixed,Further Mathematics,B,A,88,Yes
+S0053,Male,White British,Biology,A,A,90,No
+S0054,Female,White British,Art & Design,D,D,84,No
+S0055,Female,White British,Physics,A*,A*,99,No
+S0056,Other,White British,English Literature,A,A,97,Yes
+S0057,Female,Mixed,History,E,D,75,No
+S0058,Male,White British,Sociology,C,D,86,Yes
+S0059,Female,White British,History,C,D,88,No
+S0060,Male,Black British,Further Mathematics,A,A,97,No
+S0061,Male,Mixed,English Literature,B,A,88,No
+S0062,Male,White British,English Literature,B,B,89,No
+S0063,Male,White British,Computer Science,E,E,74,No
+S0064,Male,Other,Physics,B,C,85,Yes
+S0065,Female,White British,Sociology,B,A,93,No
+S0066,Male,White British,Biology,A*,A*,100,No
+S0067,Female,Asian British,Art & Design,C,C,87,No
+S0068,Female,Mixed,Psychology,B,A,94,No
+S0069,Male,White British,History,B,A,91,No
+S0070,Male,Asian British,History,C,D,84,No
+S0071,Male,White British,Mathematics,A,A,94,No
+S0072,Female,White British,Geography,B,B,96,No
+S0073,Female,Black British,Physics,C,C,87,No
+S0074,Female,White British,Sociology,B,B,96,No
+S0075,Male,White British,Geography,C,B,77,No
+S0076,Female,White British,Art & Design,C,C,90,No
+S0077,Female,White British,Sociology,D,E,82,No
+S0078,Male,Black British,Art & Design,C,C,86,No
+S0079,Female,White British,Sociology,B,B,90,No
+S0080,Male,Black British,Geography,C,B,79,No
+S0081,Female,White British,Physics,C,C,86,No
+S0082,Male,Asian British,Sociology,C,C,88,No
+S0083,Male,Asian British,Chemistry,A,A,99,No
+S0084,Male,White British,Art & Design,A,A,91,No
+S0085,Male,White British,Mathematics,A,A,90,No
+S0086,Female,Asian British,Sociology,C,C,85,No
+S0087,Male,White British,History,B,A,94,No
+S0088,Female,White British,Biology,B,B,91,No
+S0089,Female,White British,Physics,C,D,85,No
+S0090,Female,Mixed,Psychology,B,B,92,No
+S0091,Male,White British,Mathematics,A,A,93,No
+S0092,Male,Mixed,Biology,C,B,91,No
+S0093,Male,White British,Economics,A*,A,92,No
+S0094,Male,Other,Mathematics,C,D,86,No
+S0095,Male,White British,Physics,B,B,88,No
+S0096,Male,White British,English Literature,A,A*,87,No
+S0097,Male,Black British,Biology,A,A,94,No
+S0098,Female,Other,History,D,D,83,No
+S0099,Female,White British,Art & Design,C,D,87,No
+S0100,Male,Not Stated,Sociology,A*,A*,94,No
+S0101,Male,Asian British,Mathematics,D,C,76,Yes
+S0102,Other,Asian British,Geography,C,C,85,No
+S0103,Other,White British,Sociology,D,C,81,No
+S0104,Female,White British,English Literature,D,C,79,Yes
+S0105,Female,White British,Geography,C,B,86,No
+S0106,Female,White British,Geography,A,A*,95,No
+S0107,Female,Asian British,Biology,B,B,98,No
+S0108,Male,White British,Economics,C,B,88,No
+S0109,Female,Black British,Further Mathematics,A,A,94,No
+S0110,Female,White British,Economics,B,B,90,No
+S0111,Male,Asian British,Biology,B,B,82,No
+S0112,Male,Asian British,Sociology,C,C,87,No
+S0113,Male,White British,Sociology,B,B,90,Yes
+S0114,Male,White British,Physics,A,A*,100,No
+S0115,Male,White British,Biology,C,C,86,No
+S0116,Female,Mixed,Psychology,B,B,91,No
+S0117,Other,White British,Geography,A,A,93,No
+S0118,Female,Asian British,Physics,A,A,88,No
+S0119,Other,White British,Sociology,B,B,95,No
+S0120,Female,White British,Geography,B,B,93,No
+S0121,Female,White British,Art & Design,A,A*,96,No
+S0122,Male,White British,Chemistry,A,A,89,Yes
+S0123,Male,White British,Biology,A*,A*,100,No
+S0124,Female,White British,Chemistry,D,C,76,No
+S0125,Female,Other,History,A,A,95,No
+S0126,Male,White British,Mathematics,A,A,100,No
+S0127,Female,White British,Further Mathematics,B,B,86,No
+S0128,Male,White British,Geography,A,A,91,No
+S0129,Male,White British,Further Mathematics,A,A*,93,No
+S0130,Female,White British,Sociology,C,C,85,Yes
+S0131,Female,White British,Computer Science,B,B,84,No
+S0132,Male,Black British,Further Mathematics,B,B,90,No
+S0133,Male,White British,History,C,C,83,No
+S0134,Female,White British,Geography,A,A,95,Yes
+S0135,Female,Mixed,Mathematics,C,C,83,No
+S0136,Male,White British,Sociology,B,B,96,Yes
+S0137,Male,White British,Biology,B,A,87,No
+S0138,Other,Asian British,Chemistry,C,C,86,Yes
+S0139,Male,White British,Further Mathematics,B,B,93,No
+S0140,Female,Asian British,Economics,C,C,82,No
+S0141,Male,White British,Physics,B,C,91,No
+S0142,Female,Mixed,Biology,C,D,92,No
+S0143,Female,White British,Mathematics,A,A,87,No
+S0144,Other,White British,Physics,B,B,91,No
+S0145,Female,White British,English Literature,D,E,83,No
+S0146,Male,Mixed,History,A*,A*,98,No
+S0147,Female,White British,Computer Science,C,B,82,No
+S0148,Other,White British,Psychology,B,B,85,No
+S0149,Male,Mixed,Mathematics,C,C,89,No
+S0150,Male,White British,Biology,B,A,91,No
+S0151,Female,Mixed,Economics,B,B,91,No
+S0152,Female,Mixed,Mathematics,B,B,91,No
+S0153,Male,White British,Further Mathematics,A,A,90,No
+S0154,Female,White British,Art & Design,B,B,91,No
+S0155,Male,White British,History,A,A,94,No
+S0156,Female,White British,Further Mathematics,B,B,87,No
+S0157,Female,White British,Chemistry,B,B,97,No
+S0158,Male,Black British,Biology,C,C,89,No
+S0159,Male,White British,Computer Science,E,D,73,No
+S0160,Male,Not Stated,Geography,A,A,96,No
+S0161,Male,Asian British,Mathematics,E,D,74,No
+S0162,Female,Asian British,Art & Design,E,U,81,No
+S0163,Female,Mixed,Sociology,C,B,92,No
+S0164,Female,Asian British,Computer Science,C,B,84,No
+S0165,Male,White British,Computer Science,B,B,94,No
+S0166,Female,Asian British,Further Mathematics,D,D,84,No
+S0167,Male,Black British,English Literature,B,C,93,No
+S0168,Male,Black British,Geography,E,E,86,No
+S0169,Female,White British,Further Mathematics,A*,A,94,No
+S0170,Female,Other,Sociology,C,C,84,No
+S0171,Male,White British,English Literature,C,B,83,No
+S0172,Female,Other,Further Mathematics,B,B,87,No
+S0173,Female,White British,Psychology,A,A,93,No
+S0174,Female,White British,History,A,A,94,Yes
+S0175,Other,White British,Chemistry,D,D,83,No
+S0176,Female,Asian British,Economics,B,A,93,No
+S0177,Male,White British,Geography,C,D,87,No
+S0178,Female,White British,Geography,E,U,84,Yes
+S0179,Female,White British,Computer Science,B,B,89,No
+S0180,Male,Mixed,Geography,A,A,100,No
+S0181,Other,White British,English Literature,B,B,93,No
+S0182,Male,Black British,Chemistry,B,A,87,No
+S0183,Female,Black British,Psychology,A*,A,91,No
+S0184,Male,White British,Physics,A,B,95,No
+S0185,Male,Black British,Psychology,B,B,89,Yes
+S0186,Female,White British,Art & Design,A,A,96,No
+S0187,Female,White British,Chemistry,D,D,84,No
+S0188,Female,White British,Geography,C,C,87,No
+S0189,Female,White British,Further Mathematics,B,C,87,Yes
+S0190,Male,Asian British,Further Mathematics,A*,A*,89,No
+S0191,Female,White British,Psychology,B,B,88,No
+S0192,Male,Asian British,Computer Science,B,A,93,No
+S0193,Male,White British,Chemistry,B,A,91,No
+S0194,Female,White British,English Literature,C,C,82,No
+S0195,Female,White British,Further Mathematics,A*,A*,96,No
+S0196,Female,White British,Psychology,E,E,80,No
+S0197,Male,Mixed,Sociology,B,C,86,Yes
+S0198,Male,White British,Further Mathematics,B,B,91,No
+S0199,Male,White British,Economics,B,A,90,No
+S0200,Female,Mixed,Sociology,C,B,82,No
